@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # CoderDost MERN Stack E-commerce Project - Backend Repository
 
@@ -21,6 +22,10 @@ MERN E-Commerce (in Hindi) with Admin Panel, Redux Toolkit, Stripe Payment, Clou
 - JWT Auth  is  from  - Node MasterClass (Link above)
 - Vercel deployment details  - Node MasterClass (Link above)
 - React Router Crash Course: https://bit.ly/36YfO2i
+=======
+# Ecommerce-backend
+
+>>>>>>> af5b7dae7442783ff5203222b7d0f963a981133c
 
 🔥 Features :
 - Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
